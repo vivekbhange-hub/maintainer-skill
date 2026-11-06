@@ -1,0 +1,21 @@
+{
+  "name": "maintainer-skill",
+  "description": "A co-maintainer for your open-source repo. Triage issues, spot duplicates, draft release notes, welcome first-time contributors, check dependency licenses, generate community files, and score repo health. Drafts first; posts to GitHub only after you confirm.",
+  "version": "1.0.0",
+  "author": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "homepage": "https://github.com/vivekbhange-hub/maintainer-skill",
+  "repository": "https://github.com/vivekbhange-hub/maintainer-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "open-source",
+    "maintainer",
+    "issue-triage",
+    "release-notes",
+    "changelog",
+    "github",
+    "license-compliance",
+    "community"
+  ]
+}

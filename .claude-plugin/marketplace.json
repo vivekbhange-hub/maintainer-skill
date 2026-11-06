@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "maintainer-skill",
+  "description": "A co-maintainer for your open-source repo: triage, releases, contributor welcome, license and health checks.",
+  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "plugins": [
+    {
+      "name": "maintainer-skill",
+      "description": "Eight skills and three agents that triage issues, find duplicates, write release notes and changelogs, welcome first-time contributors, check dependency licenses, generate community files, and score repo health. Nothing is posted to GitHub until you confirm.",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/vivekbhange-hub/maintainer-skill"
+    }
+  ]
+}
